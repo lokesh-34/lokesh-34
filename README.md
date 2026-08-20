@@ -23,6 +23,7 @@
   <a href="https://www.linkedin.com/in/lokesh-n-8b8845320"><img src="https://img.shields.io/badge/LinkedIn-Lokesh_N-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="https://github.com/lokesh-34"><img src="https://img.shields.io/badge/GitHub-lokesh--34-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
   <a href="https://leetcode.com/u/lokesh-33/"><img src="https://img.shields.io/badge/LeetCode-lokesh--33-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;
+  <a href="https://lokeshn.tech"><img src="https://img.shields.io/badge/🌐_Portfolio-lokeshn.tech-e94560?style=flat-square" alt="Portfolio"/></a>&nbsp;
   <img src="https://img.shields.io/badge/📍_Erode,_TN-0f766e?style=flat-square" alt="Location"/>
 </p>
 
@@ -111,18 +112,37 @@ fun_fact: "I solve LeetCode problems for breakfast 🍳"
 
 <div align="center">
 
-| Domain | Technologies |
-|:---|:---|
-| **`Languages`** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **`Frontend`** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **`Backend`** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| **`Databases`** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **`AI / ML`** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_SDK-F55036?style=flat-square&logo=groq&logoColor=white) |
-| **`Tools`** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> &nbsp;I code in:
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" alt="Languages"/>
+
+<br/><br/>
+
+### ⚙️ &nbsp;I build with:
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,mysql&theme=dark" alt="Frameworks & Databases"/>
+
+<br/><br/>
+
+### 🧠 &nbsp;I power AI with:
+
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" alt="ML/AI"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" alt="NumPy"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Groq_SDK-F55036?style=for-the-badge&logo=groq&logoColor=white" height="48" alt="Groq"/>
+
+<br/><br/>
+
+### 🔧 &nbsp;I use:
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,netlify&theme=dark" alt="Tools"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 <!-- ══════════════════════ PROJECTS ══════════════════════ -->
 
